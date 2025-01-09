@@ -26,7 +26,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author user
+ * @author eliudnjorooo 
  */
 public class accounts extends javax.swing.JFrame implements ActionListener{
     ImageIcon icon=new ImageIcon("lan.jpg");
